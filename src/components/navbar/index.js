@@ -10,7 +10,7 @@ const NavbarContainer = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #6495ed;
+  background-color: rgb(242, 221, 201);
 `;
 
 const BrandContainer = styled.div``;
